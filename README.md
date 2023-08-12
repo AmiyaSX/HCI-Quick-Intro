@@ -1,5 +1,5 @@
 # HCI-Quick-Intro
-##A quick introduction to Human Computer Interaction
+## A quick introduction to Human Computer Interaction
 
 The textbook is *Interaction Design: Beyond Human-Computer Interaction 6th Edition* which is the newest edition.
 
